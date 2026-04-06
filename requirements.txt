@@ -1,5 +1,7 @@
 ultralytics
-tensorflow
-opencv-python
+tensorflow-cpu
+opencv-python-headless
+flask
+gunicorn
 numpy
 pillow
