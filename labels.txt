@@ -1,0 +1,7 @@
+helmet
+head
+person
+Number_Plate
+Weapon
+Face
+Abandoned_Bag
